@@ -5,6 +5,12 @@ want to provide a set of design depending of the capabilities of the user.
 
 Homemade face mask are not to substitute to surgical, N95, FFP2/FFP3 masks, but they may help to prevent the propagation of a virus.
 
+How to choose a design?
+
+- Design 1 is faster to build
+- Design origami is the most complete
+- Design 3 is better for large faces
+
 ## Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
 
 Original design of masks by [Julie Foucre](https://www.instagram.com/julie_jfo/). The video below describes all the steps to build your own masks with
