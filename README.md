@@ -8,8 +8,8 @@ Homemade face mask are not to substitute to surgical, N95, FFP2/FFP3 masks, but 
 How to choose a design?
 
 - Design Julie is faster to build
-- Design origami is the most complete
-- Design 3 is better for large faces
+- Design Origami is the most complete (has a filter pocket)
+- Design Olson is better for large faces (has a filter pocket)
 
 ## Design Julie - mask with sewing at nose/center level - sewing pattern made from the hand
 
@@ -92,7 +92,8 @@ The face mask uses rubber bands for hair.
 
 ### Step 14 if you want to add a filter pocket
 
-It will make the mask a little bit thiner with the fabric you sew so far.
+:warning: It will make the mask a little bit thiner with the fabric you sew so far. If you need a mask with filter pocket, we recommand the Olson design instead.
+
 - Add another 2 pieces of fabric from the initial design, that you sew together as when you start the mask.
 - Cut each side at the size you want the filter pocket to be, about 3 or 4 cm off. Sew the edges of this last layer to reinforce the fabric.
 - Put this last piece you sew, on the top of the mask, sewing towards you :
