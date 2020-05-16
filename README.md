@@ -90,6 +90,46 @@ The face mask uses rubber bands for hair.
 
 - Fold over the edges and sew to pass the lace. About 1.5 cm.
 
+### Step 14
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-14.jpg)
+
+### Step 15
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-15.jpg)
+
+### Step 16
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-16.jpg)
+
+### Step 17
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-17.jpg)
+
+### Step 18
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-18.jpg)
+
+### Step 19
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-19.jpg)
+
+### Step 20
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-20.jpg)
+
+### Step 21
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-21.jpg)
+
+### Step 22
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-22.jpg)
+
+### Step 23
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-23.jpg)
+
 ### nose pliers
 
 - Add a piece of fabric, rectangular a few cm (5 on average), made with the scraps.
