@@ -7,11 +7,11 @@ Homemade face mask are not to substitute to surgical, N95, FFP2/FFP3 masks, but 
 
 How to choose a design?
 
-- Design 1 is faster to build
+- Design Julie is faster to build
 - Design origami is the most complete
 - Design 3 is better for large faces
 
-## Design 1 - mask with sewing at nose/center level - sewing pattern made from the hand
+## Design Julie - mask with sewing at nose/center level - sewing pattern made from the hand
 
 Original design of masks by [Julie Foucre](https://www.instagram.com/julie_jfo/). The video below describes all the steps to build your own masks with
 you have some sewing experience and the required equipments.
@@ -23,6 +23,14 @@ you have some sewing experience and the required equipments.
 ![Face mask result from the pattern made from the hand](https://raw.githubusercontent.com/C00kie-/DIY-face-masks/master/images/patterns/prototype_julie1.jpeg)
 
 The face mask uses rubber bands for hair.
+
+### Step-by-step guide for the design Julie
+
+### Step 1
+
+- Draw patterns on fabric, the lines are the lines to be cut, the seam will be 0.7 cm from the edge:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-1.jpg)
 
 ## Design 3 - mask folded fabrics without sewing at nose/center level
 
