@@ -1,8 +1,10 @@
 # Mask models
 
 ## [Julie](#design-julie---mask-with-sewing-at-nosecenter-level---sewing-pattern-made-from-the-hand)
-## Origami
-## Olson
+
+## [Origami](#design-origami---3d-mask-without-sewing-at-nosecenter-level)
+
+## [Olson](#design-olson---large-design-mask-with-sewing-at-nosecenter-level)
 
 A selection of reusable face masks to make yourself easily. We don't want to make a single design or perfect design but we
 want to provide a set of design depending of the capabilities of the user.
