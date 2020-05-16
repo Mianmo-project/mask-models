@@ -90,20 +90,26 @@ The face mask uses rubber bands for hair.
 
 - Fold over the edges and sew to pass the lace. About 1.5 cm.
 
-### Step 14
+### Step 14 if you want to add a filter pocket
 
+It will make the mask a little bit thiner with the fabric you sew so far.
+- Add another 2 pieces of fabric from the initial design, that you sew together as when you start the mask.
+- Cut each side at the size you want the filter pocket to be, about 3 or 4 cm off. Sew the edges of this last layer to reinforce the fabric.
+- Put this last piece you sew, on the top of the mask, sewing towards you :
 ![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-14.jpg)
 
 ### Step 15
 
+- Sew the top edge and the bottom edge onto the mask.
 ![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-15.jpg)
 
 ### Step 16
 
+- Gently invert the mask from the inside;
 ![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-16.jpg)
 
 ### Step 17
-
+- Fold over the edges and sew to pass the lace. About 1.5 cm.
 ![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-17.jpg)
 
 ### Step 18
