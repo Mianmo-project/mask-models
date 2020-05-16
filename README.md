@@ -1,6 +1,6 @@
 # Mask models
 
-## Julie
+## [Julie](#julie)
 ## Origami
 ## Olson
 
@@ -15,7 +15,7 @@ How to choose a design?
 - Design Origami is the most complete (has a filter pocket)
 - Design Olson is better for large faces (has a filter pocket)
 
-## Design Julie - mask with sewing at nose/center level - sewing pattern made from the hand
+## (#julie) Design Julie - mask with sewing at nose/center level - sewing pattern made from the hand
 
 Original design of masks by [Julie Foucre](https://www.instagram.com/julie_jfo/). The video below describes all the steps to build your own masks with
 you have some sewing experience and the required equipments.
