@@ -157,6 +157,10 @@ How to choose a filter, check out [our page - selection of additional filters](h
 
 - Use a metal wire folded in half, which will catch the lace at one end of the fold and then pass it through the fold.
 
+## Design Olson - large design mask with sewing at nose/center level
+
+## Design Origami - 3d mask without sewing at nose/center level
+
 ## How to use and clean your masks
 
 - Do not touch the mask and its fasteners while you are wearing it.
