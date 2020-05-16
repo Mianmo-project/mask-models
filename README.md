@@ -1,5 +1,9 @@
 # Mask models
 
+## Julie
+## Origami
+## Olson
+
 A selection of reusable face masks to make yourself easily. We don't want to make a single design or perfect design but we
 want to provide a set of design depending of the capabilities of the user.
 
