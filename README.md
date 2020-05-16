@@ -28,9 +28,77 @@ The face mask uses rubber bands for hair.
 
 ### Step 1
 
-- Draw patterns on fabric, the lines are the lines to be cut, the seam will be 0.7 cm from the edge:
+- Draw patterns on fabric;
+- The lines are the lines to be cut;
+- the seam will be 0.7 cm from the edge:
 
 ![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-1.jpg)
+
+### Step 2 - Step 3
+
+- Here is the cut pattern;
+- There must be four;
+- Two for the inside, two for the outside:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-2.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-3.jpg)
+
+### Step 4
+
+- Sew the two pieces for each side;
+- Sew 0.7 cm from the edge;
+- Remember to double the thread at the ends so that the seam does not jump:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-4.jpg)
+
+### Step 5 - Step 6
+
+- Lay the faces flat;
+- Sewing towards you:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-5.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-6.jpg)
+
+### Step 7 - Step 8 and Step 9
+
+- Lay the faces against each other, the seams outwards;
+- Sew the two sides together, 0.7 cm;
+- Start at the top of the left edge then go around in a seam, stop at the bottom of the left edge, to leave an opening;
+- Be careful not to sew the center seam flat, it will reduce the depth of the mask:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-7.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-8.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-9.jpg)
+
+### Step 10
+
+- Gently invert the mask from the inside;
+- Clear the corners:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-10.jpg)
+
+### Step 11 - Step 12 and Step 13
+
+- Fold the fabric from the left edge inward and sew to close the mask;
+- Then sew to strengthen the mask all the edge to 0.5 cm:
+
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-11.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-12.jpg)
+![](https://raw.githubusercontent.com/Mianmo-project/mask-models/master/images/model-1/step-13.jpg)
+
+### Step 13 finish
+
+- Fold over the edges and sew to pass the lace. About 1.5 cm.
+
+### nose pliers
+
+- Add a piece of fabric, rectangular a few cm (5 on average), made with the scraps.
+- Sew the top and bottom of the small piece directly inside the mask, so that the shape follows the wing of the nose.
+- Slide a metal wire or a metal food clip for example. The metal piece can be removed for machine washing the mask.
+
+### tip to pass the laces
+
+- Use a metal wire folded in half, which will catch the lace at one end of the fold and then pass it through the fold.
 
 ## Design 3 - mask folded fabrics without sewing at nose/center level
 
