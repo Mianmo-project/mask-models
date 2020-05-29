@@ -6,7 +6,7 @@
 - [COVID-19: Cloth Masks & Community Protection](https://www.bmj.com/content/368/bmj.m1141/rr-1)
 - FR: [Avis d'experts relatifs à la stratégie de constitution d'un stock de contre-mesures médicales face à une pandémie grippale](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/grippe/documents/avis/avis-d-experts-relatifs-a-la-strategie-de-constitution-d-un-stock-de-contre-mesures-medicales-face-a-une-pandemie-grippale)
 - FR: [Port du masque : le gouvernement amorce un virage à 180 degrés](https://www.lemonde.fr/politique/article/2020/04/06/port-du-masque-l-executif-amorce-un-virage-a-180-degres_6035698_823448.html)
-- ENG [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/05/27/science.abc6197.full)
+- EN [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/05/27/science.abc6197.full)
 
 ### Face mask models
 
